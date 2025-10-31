@@ -1,12 +1,12 @@
 <p align="center">
-img/Banner-ignite-25.png
+<img src="img/Banner-ignite-25.png" alt="decorative banner" width="1200"/>
 </p>
 
-# https://ignite.microsoft.com
+# [Microsoft Ignite 2025](https://ignite.microsoft.com)
 
 ## 🔥 LAB546: Securing the Stack – Zero Trust for Data, Infra, Network & SOC
 
-[![Microsoft Azure AI Foundry Discord](https://dcbadge.limes.pink/api/server/ByRwuEEgH4)](https://discord.comDeveloper Forum](https://img.shields.io/badge/GitHub-Azure_AI_Foundry_Developer_Forum-blue?style=for-the-badge&logo=github&color=adff2f&logoColor=fff)](https://aka.ms/fw
+### Session Description
 
 This hands-on lab introduces participants to the **Microsoft Zero Trust Workshop** and guides them through securing the technology stack across four key pillars: **Data**, **Infrastructure**, **Network**, and **Security Operations**. Learners will explore tools, strategies, and demos that showcase how Zero Trust principles can be applied across the enterprise.
 
