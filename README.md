@@ -16,7 +16,7 @@ This hands-on lab introduces participants to the **Microsoft Zero Trust Workshop
 
 By the end of this lab, participants will:
 
-- Understand the structure and purpose of the Microsoft Zero Trust Workshop  
+- Understand the Data, Infra and Network pilars of the of the Microsoft Zero Trust Workshop  
 - Explore the Zero Trust workshop tool and delivery guide  
 - Apply Zero Trust principles to data protection, network access, and SOC operations  
 - Use Microsoft Purview, Entra, Sentinel, and Defender to simulate real-world scenarios  
@@ -29,7 +29,6 @@ By the end of this lab, participants will:
 1. **Introduction to Zero Trust Workshop**
    - Access the workshop homepage  
    - Review workshop pillars and delivery guide  
-   - Download and explore `ZeroTrustTemplate.xlsx` tool  
 
 2. **Data Pillar**
    - Sensitive Data Discovery with Microsoft Purview  
@@ -65,7 +64,7 @@ By the end of this lab, participants will:
 
 ### ✅ Prerequisites
 
-- Basic familiarity with Microsoft 365 security tools  
+- Basic familiarity with Microsoft security tools  
 - Access to lab environment with provided credentials  
 - Excel and browser access within the VM  
 
@@ -85,8 +84,7 @@ Participants will complete the lab by:
 
 | Resource                | Link                                      |
 |-------------------------|-------------------------------------------|
-| Zero Trust Workshop     | [ttps://aka.ms/ztworkshop |
-| Zero Trust Tool         | `ZeroTrustTemplate.xlsx`                 |
+| Zero Trust Workshop     | [https://aka.ms/ztworkshop |
 | Lab Credentials         | Provided in VM login instructions        |
 
 ---
