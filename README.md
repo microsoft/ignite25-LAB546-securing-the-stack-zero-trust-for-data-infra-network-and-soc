@@ -1,68 +1,146 @@
-# Welcome Ignite 2025 Creators!
+<p align="center">
+img/Banner-ignite-25.png
+</p>
 
-Thanks for creating content for Ignite!  Please follow this guidance so all ignite repos have the same look and feel.
+# https://ignite.microsoft.com
 
-## How to contact Skillable?
+## 🔥 LAB546: Securing the Stack – Zero Trust for Data, Infra, Network & SOC
 
-If you have issues with the Skillable environment, please follow these steps:
+[![Microsoft Azure AI Foundry Discord](https://dcbadge.limes.pink/api/server/ByRwuEEgH4)](https://discord.comDeveloper Forum](https://img.shields.io/badge/GitHub-Azure_AI_Foundry_Developer_Forum-blue?style=for-the-badge&logo=github&color=adff2f&logoColor=fff)](https://aka.ms/fw
 
-1. Open an issue in the [Issues](../../issues) tab using the `New issue` button.
-1. Describe the problem, be descriptive, use screenshots if possible etc.
-1. Tag the following Skillable employees:
-   - @kylerosenthal
-   - @TubaMikeBob
-   - @Naimjones16
-   - @jmbauf
-1. Have all the discussions related to the issue in the issue itself.
-1. Once the issue is resolved, please mark it as Closed.
+This hands-on lab introduces participants to the **Microsoft Zero Trust Workshop** and guides them through securing the technology stack across four key pillars: **Data**, **Infrastructure**, **Network**, and **Security Operations**. Learners will explore tools, strategies, and demos that showcase how Zero Trust principles can be applied across the enterprise.
 
-## Put your docs in the docs folder
+---
 
-This repo is configured for a user to view the docs through mkdocs.
+### 🧠 Learning Objectives
 
-1. update the `mkdocs.yml` file to reference your session. Look particularly for the `site_name`, `site_author`, and `repo_name` tags.
-1. Subfolders in the docs folder will show up as tabs in the navigation bar.
+By the end of this lab, participants will:
 
-## Guidance
+- Understand the structure and purpose of the Microsoft Zero Trust Workshop  
+- Explore the Zero Trust workshop tool and delivery guide  
+- Apply Zero Trust principles to data protection, network access, and SOC operations  
+- Use Microsoft Purview, Entra, Sentinel, and Defender to simulate real-world scenarios  
+- Evaluate implementation effort and user impact using the Zero Trust roadmap  
 
-1. Do not turn on github pages for this repo, traffic to github pages isn't captured in our metrics.
-1. Do not store slides or recordings in this repo
+---
 
-## Update the badges!
+### 📚 Lab Modules
 
-1. if the foundry discord and github links aren't appropriate for your session you can remove or change them.
-2. See shields.io for how to build your own dynamic or static badge for your community destinations, or other sample repos for how they've done
-3. Please limit your repo to one row of badges under the session title.
+1. **Introduction to Zero Trust Workshop**
+   - Access the workshop homepage  
+   - Review workshop pillars and delivery guide  
+   - Download and explore `ZeroTrustTemplate.xlsx` tool  
 
-## MCP Server
-1. This repo has an mcp.json file and is configured to let agents connect to the Learn MCP Server.
+2. **Data Pillar**
+   - Sensitive Data Discovery with Microsoft Purview  
+   - Insider Risk Management demo  
+   - Conditional Access policy walkthrough for Insider Risk  
 
-> **Important** Make sure to avoid hardcoding sensitive information like API keys and other credentials by using input variables or environment files.
+3. **Network Pillar**
+   - Global Secure Access (GSA) client deployment  
+   - Traffic forwarding and DLP integration  
+   - Monitoring application segments and client download options  
 
+4. **Security Operations Pillar**
+   - Sentinel data lake configuration and tiering  
+   - Advanced Hunting with Security Copilot  
+   - KQL job creation for threat correlation  
 
-## Update this readme below
+5. **Microsoft Security Exposure Management**
+   - Initiative scores and threat actor profiles  
+   - Attack surface exploration and blast radius analysis  
+   - Device posture review and remediation planning  
 
-1. Fill out the content in this file, below the banner graphic, including the session code.
-2. Please embed links to Learn with your campaign codes!
-3. Add resources for your session to the Resources and Next Steps table
-4. Change the Content Owner section to your info
-5. Change the placeholder session code BRKXXX to your session code.
+---
 
-## Improve SEO
+### 💻 Technologies Used
 
-1. Update the Repo Info for this repo 
-    1. Click the gear icon⚙️ in the upper right.
-    1. Set a good description of this repo.
-    1. Add the technologies that you're using in this session.
+- Microsoft Purview  
+- Microsoft Entra (Global Secure Access)  
+- Microsoft Sentinel  
+- Microsoft Defender Exposure Management  
+- Security Copilot  
 
-## Questions?
+---
 
-Send them to [Mike Kinsman](mailto:mikki@microsoft.com) and [Laurent Bugnion](lbugnion@microsoft.com), or surface your question through your content leads.  We are also monitoring issues logged in the repos.
+### ✅ Prerequisites
 
-## Finished?
+- Basic familiarity with Microsoft 365 security tools  
+- Access to lab environment with provided credentials  
+- Excel and browser access within the VM  
 
-- Remove the folders that you don't need or didn't use, *please don't leave them empty with placeholder readmes*
-- Delete this line and everything above it!
+---
+
+### 🏁 Completion Criteria
+
+Participants will complete the lab by:
+
+- Navigating each pillar’s roadmap and reviewing recommendations  
+- Running demos and reviewing alerts, policies, and metrics  
+- Capturing current state and identifying follow-up actions  
+
+---
+
+### 📚 Resources
+
+| Resource                | Link                                      |
+|-------------------------|-------------------------------------------|
+| Zero Trust Workshop     | [ttps://aka.ms/ztworkshop |
+| Zero Trust Tool         | `ZeroTrustTemplate.xlsx`                 |
+| Lab Credentials         | Provided in VM login instructions        |
+
+---
+
+### 🚀 Next Steps
+
+- Apply learnings to customer environments  
+- Use the workshop tool to plan Zero Trust engagements  
+- Explore additional labs on identity, endpoint, and cloud security  
+
+---
+
+## 🌟 Microsoft Learn MCP Server
+
+[![Install in VS Code](https://img.shields.io/badge/VS_Code-Install_Microsoft_Docs_MCP-0098FF?style=flat-square&logo=visualstudiocode&logoColor=white)](https://vscode.dev/redirect/mcp/install?name=microsoft.docs.mcp&config=%7B%22type%22%3A%22http%22%2C%22url%22%3A%22https%3A%2F%2Flearn.microsoft.com%2Fapi%2ft Learn MCP Server is a remote MCP Server that enables clients like GitHub Copilot and other AI agents to bring trusted and up-to-date information directly from Microsoft's official documentation.  
+Get started by using the one-click button above for VSCode or access the [mcp.json](.vscode/mcp.json) file includedo.
+
+For more information, setup instructions for other dev clients, and to post comments and questions, visit our Learn MCP Server GitHub repo at [https://github.com/MicrosoftDocs/MCP](https://github.com/Microsoftonnect your agent to at [https://mcp.azure.com
+*Note: When you use the Learn MCP Server, you agree with [Microsoft Learn](https://learn.microsoft.com/en-us/legal/termsofuse) and [Microsoft API Terms](https://learn.microsoft.com/en-us/legal/microsoft-apis/terms-of-use) of Use.*
+
+sources          | Links                             | Description        |
+|:-------------------|:----------------------------------|:-------------------|
+| Ignite 2025 Next Steps | [https://aka.ms/Ignite25-Next-Steps](https://aka.ms/Ignite25-Next-Steps?ocid=ignite25_next Tour 26 Sessions |
+| Azure AI Foundry Community Discord | [![Microsoft Azure AI Foundry Discord](https://dcbadge.limes.pink/api/server/ByRwuEEgH4)](https://discord.com/invite/ByRwuEEgH4)| Connect with the Azure AI Foundry Community!arnAtIgnite?ocid=ignite25_nextsteps_github_cnl | Continue learning on Microsoft Learn |
+
+---
+
+## Content Owners
+
+<!-- TODO: Add yourself as a content owner -->
+<table>
+<tr>
+    <td align="center">http://github.com/mikekinsman
+        <img src="https://github.com/mikekinsman.png" width="100px;" alt="INSERTE</b></sub></a><br />
+        <a href="https://github.com/mikekinsman" title<td align="center"><a href="http://github.comman
+        <img srcgithub.com/mikekinsman.png<br />
+        <sub><b>INSERT NAME HERE</b></sub></a><br />
+        https://github.com/mikekinsman 
+    </td>
+</tr>
+</table>
+
+---
+
+## Contributing
+
+This project welcomes contributions and suggestions. Most contributions require you to agree to a Contributor License Agreement (CLA).  
+For details, visit [Contributor License Agreements](https://cla.opensource.microsoft.com).
+
+://opensource.microsoft.com/codeofconduct/.  
+For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencodeontain trademarks or logos for projects, products, or services. Authorized use of Microsoft trademarks or logos is subject to and must follow [Microsoft's Trademark & Brand Guidelines](https://www.microsoftusage/general.
+
+#TESTING BELOW TO DELETE
+
 
 <p align="center">
 <img src="img/Banner-ignite-25.png" alt="decorative banner" width="1200"/>
