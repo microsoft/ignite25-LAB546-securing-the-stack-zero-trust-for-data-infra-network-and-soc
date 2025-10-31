@@ -97,78 +97,6 @@ Participants will complete the lab by:
 
 ---
 
-## 🌟 Microsoft Learn MCP Server
-
-[![Install in VS Code](https://img.shields.io/badge/VS_Code-Install_Microsoft_Docs_MCP-0098FF?style=flat-square&logo=visualstudiocode&logoColor=white)](https://vscode.dev/redirect/mcp/install?name=microsoft.docs.mcp&config=%7B%22type%22%3A%22http%22%2C%22url%22%3A%22https%3A%2F%2Flearn.microsoft.com%2Fapi%2ft Learn MCP Server is a remote MCP Server that enables clients like GitHub Copilot and other AI agents to bring trusted and up-to-date information directly from Microsoft's official documentation.  
-Get started by using the one-click button above for VSCode or access the [mcp.json](.vscode/mcp.json) file includedo.
-
-For more information, setup instructions for other dev clients, and to post comments and questions, visit our Learn MCP Server GitHub repo at [https://github.com/MicrosoftDocs/MCP](https://github.com/Microsoftonnect your agent to at [https://mcp.azure.com
-*Note: When you use the Learn MCP Server, you agree with [Microsoft Learn](https://learn.microsoft.com/en-us/legal/termsofuse) and [Microsoft API Terms](https://learn.microsoft.com/en-us/legal/microsoft-apis/terms-of-use) of Use.*
-
-sources          | Links                             | Description        |
-|:-------------------|:----------------------------------|:-------------------|
-| Ignite 2025 Next Steps | [https://aka.ms/Ignite25-Next-Steps](https://aka.ms/Ignite25-Next-Steps?ocid=ignite25_next Tour 26 Sessions |
-| Azure AI Foundry Community Discord | [![Microsoft Azure AI Foundry Discord](https://dcbadge.limes.pink/api/server/ByRwuEEgH4)](https://discord.com/invite/ByRwuEEgH4)| Connect with the Azure AI Foundry Community!arnAtIgnite?ocid=ignite25_nextsteps_github_cnl | Continue learning on Microsoft Learn |
-
----
-
-## Content Owners
-
-<!-- TODO: Add yourself as a content owner -->
-<table>
-<tr>
-    <td align="center">http://github.com/mikekinsman
-        <img src="https://github.com/mikekinsman.png" width="100px;" alt="INSERTE</b></sub></a><br />
-        <a href="https://github.com/mikekinsman" title<td align="center"><a href="http://github.comman
-        <img srcgithub.com/mikekinsman.png<br />
-        <sub><b>INSERT NAME HERE</b></sub></a><br />
-        https://github.com/mikekinsman 
-    </td>
-</tr>
-</table>
-
----
-
-## Contributing
-
-This project welcomes contributions and suggestions. Most contributions require you to agree to a Contributor License Agreement (CLA).  
-For details, visit [Contributor License Agreements](https://cla.opensource.microsoft.com).
-
-://opensource.microsoft.com/codeofconduct/.  
-For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencodeontain trademarks or logos for projects, products, or services. Authorized use of Microsoft trademarks or logos is subject to and must follow [Microsoft's Trademark & Brand Guidelines](https://www.microsoftusage/general.
-
-#TESTING BELOW TO DELETE
-
-
-<p align="center">
-<img src="img/Banner-ignite-25.png" alt="decorative banner" width="1200"/>
-</p>
-
-# [Microsoft Ignite 2025](https://ignite.microsoft.com)
-
-## 🔥BRKXXX: Securing the Stack: Zero Trust for Data, Infra, Network and SOC
-
-[![Microsoft Azure AI Foundry Discord](https://dcbadge.limes.pink/api/server/ByRwuEEgH4)](https://discord.com/invite/ByRwuEEgH4)
-[![Azure AI Foundry Developer Forum](https://img.shields.io/badge/GitHub-Azure_AI_Foundry_Developer_Forum-blue?style=for-the-badge&logo=github&color=adff2f&logoColor=fff)](https://aka.ms/foundry/forum)
-
-### Session Description
-
-*Add Session Description*
-
-### 🧠 Learning Outcomes
-
-By the end of this session, learners will be able to:
-
--  
--
--
-
-### 💻 Technologies Used
-
-1.
-1.
-1.
-
 ### 🌟 Microsoft Learn MCP Server
 
 [![Install in VS Code](https://img.shields.io/badge/VS_Code-Install_Microsoft_Docs_MCP-0098FF?style=flat-square&logo=visualstudiocode&logoColor=white)](https://vscode.dev/redirect/mcp/install?name=microsoft.docs.mcp&config=%7B%22type%22%3A%22http%22%2C%22url%22%3A%22https%3A%2F%2Flearn.microsoft.com%2Fapi%2Fmcp%22%7D)
@@ -183,9 +111,9 @@ For more information, setup instructions for other dev clients, and to post comm
 
 | Resources          | Links                             | Description        |
 |:-------------------|:----------------------------------|:-------------------|
-| Ignite 2025 Next Steps | [https://aka.ms/Ignite25-Next-Steps](https://aka.ms/Ignite25-Next-Steps?ocid=ignite25_nextsteps_cnl) | Links to all repos for AI Tour 26 Sessions |
-| Azure AI Foundry Community Discord | [![Microsoft Azure AI Foundry Discord](https://dcbadge.limes.pink/api/server/ByRwuEEgH4)](https://discord.com/invite/ByRwuEEgH4)| Connect with the Azure AI Foundry Community! |
+| Ignite 2025 Next Steps | [https://aka.ms/Ignite25-Next-Steps](https://aka.ms/Ignite25-Next-Steps?ocid=ignite25_nextsteps_cnl) | Links to all repos for Ignite Sessions |
 | Learn at Ignite | [https://aka.ms/LearnAtIgnite](https://aka.ms/LearnAtIgnite?ocid=ignite25_nextsteps_github_cnl) | Continue learning on Microsoft Learn |
+| Take supplemental training | [Training](https://learn.microsoft.com/training/modules/plan-implement-administer-conditional-access/) | Explore Conditional Access on Microsoft Learn |
 
 ## Content Owners
 
@@ -196,22 +124,13 @@ For more information, setup instructions for other dev clients, and to post comm
 
 <table>
 <tr>
-    <td align="center"><a href="http://github.com/mikekinsman">
-        <img src="https://github.com/mikekinsman.png" width="100px;" alt="INSERT NAME HERE"
-"/><br />
-        <sub><b> INSERT NAME HERE
+    <td align="center"><a href="http://github.com/r-c-stewart">
+        <img src="https://github.com/r-c-stewart.png" width="100px;" alt="Robert Stewart"/><br />
+        <sub><b> Robert Stewart
 </b></sub></a><br />
-            <a href="https://github.com/mikekinsman" title="talk">📢</a> 
-    </td>
-    <td align="center"><a href="http://github.com/mikekinsman">
-        <img src="https://github.com/mikekinsman.png" width="100px;" alt="INSERT NAME HERE
-"/><br />
-        <sub><b>INSERT NAME HERE
-</b></sub></a><br />
-            <a href="https://github.com/mikekinsman" title="talk">📢</a> 
+            <a href="https://github.com/r-c-stewart" title="talk">📢</a> 
     </td>
 </tr></table>
-
 
 ## Contributing
 
