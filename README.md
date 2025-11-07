@@ -114,6 +114,8 @@ For more information, setup instructions for other dev clients, and to post comm
 | Ignite 2025 Next Steps | [https://aka.ms/Ignite25-Next-Steps](https://aka.ms/Ignite25-Next-Steps?ocid=ignite25_nextsteps_cnl) | Links to all repos for Ignite Sessions |
 | Learn at Ignite | [https://aka.ms/LearnAtIgnite](https://aka.ms/LearnAtIgnite?ocid=ignite25_nextsteps_github_cnl) | Continue learning on Microsoft Learn |
 | Take supplemental training | [Training](https://learn.microsoft.com/training/modules/plan-implement-administer-conditional-access/) | Explore Conditional Access on Microsoft Learn |
+| Discord | [https://aka.ms/AIFoundryDiscord-Ignite25](https://aka.ms/AIFoundryDiscord-Ignite25) | Join our community |
+| GitHub Discussions | [https://aka.ms/AIFoundryForum-Ignite25](https://aka.ms/AIFoundryForum-Ignite25) | Ask questions |
 
 ## Content Owners
 
