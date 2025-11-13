@@ -41,14 +41,8 @@ By the end of this lab, participants will:
    - Monitoring application segments and client download options  
 
 4. **Security Operations Pillar**
-   - Sentinel data lake configuration and tiering  
-   - Advanced Hunting with Security Copilot  
-   - KQL job creation for threat correlation  
-
-5. **Microsoft Security Exposure Management**
-   - Initiative scores and threat actor profiles  
-   - Attack surface exploration and blast radius analysis  
-   - Device posture review and remediation planning  
+   - Review a simulated attack
+   - Highlight how this could be proactively avoided with tools such as Microsoft Security Exposure Management and Sentinel data lake
 
 ---
 
